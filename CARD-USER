@@ -10,24 +10,12 @@
 </head>
 
 <body>
-<!--======================================
-=            Apock web design            =
-=======================================
 
-Gracias por utilizar mi contenido!
-Me siento agradecido compartiendo para Uds
-No olvides seguirme en:
-👉 Instagram - https://www.instagram.com/ApockGraficos
-👉 Twitter - https://twitter.com/ApockGraficos
-👉 Faccobook - https://www.facebook.com/ApockGraficos
 
 ====-->
 
 <style type="text/css">
-/*=====================================
-reset estilos
-no es necesario que copies esto
-=====================================*/
+
 html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -53,10 +41,6 @@ body {
     height: 100vh;
 }
 
-/*=====================================
-estilos de la utilidad
-Copiar esto
-=====================================*/
 .card-usuario {
     display: flex;
     width: 400px;
@@ -219,8 +203,7 @@ Copiar esto
             </a>
         </div>
         <p class="bio-usuario">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua.
+            Viajera del tiempo.
         </p>
         <a href="#" title="">Ver perfil</a>
     </div>
